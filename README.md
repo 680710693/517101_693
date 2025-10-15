@@ -6,4 +6,6 @@
 
 ![cat](https://media.tenor.com/_WZy7E7hoTcAAAAM/cat-smile.gif)
 
-## C
+## ภาษา C
+
+## ภาษา Java
